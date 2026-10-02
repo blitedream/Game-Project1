@@ -1,0 +1,5652 @@
+{
+  "asset": {
+    "generator": "glTF-Transform v4.4.2",
+    "version": "2.0",
+    "extras": {
+      "author": "3BATS (https://sketchfab.com/3bats)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/kelkaya-sinkhole-cd6c5687814e484da0bf4d360a324c60",
+      "title": "Kelkaya Sinkhole"
+    }
+  },
+  "accessors": [
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 77640,
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 76062,
+      "bufferView": 0,
+      "byteOffset": 155280
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 70500,
+      "bufferView": 0,
+      "byteOffset": 307404
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 68733,
+      "bufferView": 0,
+      "byteOffset": 448404
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 68400,
+      "bufferView": 0,
+      "byteOffset": 585872
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 70605,
+      "bufferView": 0,
+      "byteOffset": 722672
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 63798,
+      "bufferView": 0,
+      "byteOffset": 863884
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 63351,
+      "bufferView": 0,
+      "byteOffset": 991480
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 66534,
+      "bufferView": 0,
+      "byteOffset": 1118184
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 70740,
+      "bufferView": 0,
+      "byteOffset": 1251252
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 69327,
+      "bufferView": 0,
+      "byteOffset": 1392732
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 63909,
+      "bufferView": 0,
+      "byteOffset": 1531388
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 65874,
+      "bufferView": 0,
+      "byteOffset": 1659208
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 62868,
+      "bufferView": 0,
+      "byteOffset": 1790956
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 58692,
+      "bufferView": 0,
+      "byteOffset": 1916692
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 55473,
+      "bufferView": 0,
+      "byteOffset": 2034076
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 69153,
+      "bufferView": 0,
+      "byteOffset": 2145024
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 69819,
+      "bufferView": 0,
+      "byteOffset": 2283332
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 59526,
+      "bufferView": 0,
+      "byteOffset": 2422972
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 62580,
+      "bufferView": 0,
+      "byteOffset": 2542024
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 60423,
+      "bufferView": 0,
+      "byteOffset": 2667184
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 57075,
+      "bufferView": 0,
+      "byteOffset": 2788032
+    },
+    {
+      "type": "SCALAR",
+      "componentType": 5123,
+      "count": 18576,
+      "bufferView": 0,
+      "byteOffset": 2902184
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 21404,
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 21404,
+      "bufferView": 1,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 21404,
+      "max": [
+        -13.162806510925293,
+        64.08631896972656,
+        557.6677856445312
+      ],
+      "min": [
+        -94.72322845458984,
+        -32.312767028808594,
+        514.646240234375
+      ],
+      "bufferView": 1,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 21404,
+      "bufferView": 1,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 21102,
+      "bufferView": 2,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 21102,
+      "bufferView": 2,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 21102,
+      "max": [
+        4.056115627288818,
+        32.61769104003906,
+        531.9811401367188
+      ],
+      "min": [
+        -47.48687744140625,
+        -36.99424743652344,
+        511.687744140625
+      ],
+      "bufferView": 2,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 21102,
+      "bufferView": 2,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 17912,
+      "bufferView": 3,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 17912,
+      "bufferView": 3,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 17912,
+      "max": [
+        -16.33485221862793,
+        22.63005828857422,
+        525.510498046875
+      ],
+      "min": [
+        -45.42158508300781,
+        -21.452617645263672,
+        516.5426635742188
+      ],
+      "bufferView": 3,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 17912,
+      "bufferView": 3,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 19132,
+      "bufferView": 4,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19132,
+      "bufferView": 4,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19132,
+      "max": [
+        0.620326578617096,
+        43.58877182006836,
+        524.4248046875
+      ],
+      "min": [
+        -34.56462860107422,
+        -28.000211715698242,
+        512.217529296875
+      ],
+      "bufferView": 4,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19132,
+      "bufferView": 4,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 19454,
+      "bufferView": 5,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19454,
+      "bufferView": 5,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19454,
+      "max": [
+        3.9651668071746826,
+        39.55455017089844,
+        532.9695434570312
+      ],
+      "min": [
+        -50.21928405761719,
+        -24.17886734008789,
+        511.687744140625
+      ],
+      "bufferView": 5,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19454,
+      "bufferView": 5,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 18030,
+      "bufferView": 6,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18030,
+      "bufferView": 6,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18030,
+      "max": [
+        -29.968473434448242,
+        65.50151062011719,
+        554.07763671875
+      ],
+      "min": [
+        -94.67375183105469,
+        -17.043243408203125,
+        520.5664672851562
+      ],
+      "bufferView": 6,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 18030,
+      "bufferView": 6,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 19482,
+      "bufferView": 7,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19482,
+      "bufferView": 7,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19482,
+      "max": [
+        -51.78849792480469,
+        64.64649200439453,
+        548.0123901367188
+      ],
+      "min": [
+        -94.57095336914062,
+        7.895970344543457,
+        528.320556640625
+      ],
+      "bufferView": 7,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19482,
+      "bufferView": 7,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 19015,
+      "bufferView": 8,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19015,
+      "bufferView": 8,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19015,
+      "max": [
+        -64.2322769165039,
+        29.00710105895996,
+        545.1290283203125
+      ],
+      "min": [
+        -94.2799072265625,
+        6.625609397888184,
+        526.945068359375
+      ],
+      "bufferView": 8,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19015,
+      "bufferView": 8,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 19780,
+      "bufferView": 9,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19780,
+      "bufferView": 9,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 19780,
+      "max": [
+        -69.28073120117188,
+        68.92546844482422,
+        560.623291015625
+      ],
+      "min": [
+        -112.14912414550781,
+        8.047958374023438,
+        527.0753173828125
+      ],
+      "bufferView": 9,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 19780,
+      "bufferView": 9,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 17913,
+      "bufferView": 10,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 17913,
+      "bufferView": 10,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 17913,
+      "max": [
+        -65.27149200439453,
+        70.0607681274414,
+        562.10888671875
+      ],
+      "min": [
+        -115.92680358886719,
+        23.33373260498047,
+        538.4295654296875
+      ],
+      "bufferView": 10,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 17913,
+      "bufferView": 10,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 18462,
+      "bufferView": 11,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18462,
+      "bufferView": 11,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18462,
+      "max": [
+        -68.58342742919922,
+        47.92277908325195,
+        564.0238647460938
+      ],
+      "min": [
+        -124.04728698730469,
+        -12.437936782836914,
+        537.9151000976562
+      ],
+      "bufferView": 11,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 18462,
+      "bufferView": 11,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 20978,
+      "bufferView": 12,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20978,
+      "bufferView": 12,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20978,
+      "max": [
+        -68.42208862304688,
+        69.2746353149414,
+        560.46142578125
+      ],
+      "min": [
+        -108.09322357177734,
+        -12.304884910583496,
+        528.777587890625
+      ],
+      "bufferView": 12,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 20978,
+      "bufferView": 12,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 20105,
+      "bufferView": 13,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20105,
+      "bufferView": 13,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 20105,
+      "max": [
+        -62.968467712402344,
+        56.45536422729492,
+        565.2520751953125
+      ],
+      "min": [
+        -125.80081176757812,
+        -15.224628448486328,
+        528.1646728515625
+      ],
+      "bufferView": 13,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 20105,
+      "bufferView": 13,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 22011,
+      "bufferView": 14,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 22011,
+      "bufferView": 14,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 22011,
+      "max": [
+        -64.48812866210938,
+        68.99034881591797,
+        563.654296875
+      ],
+      "min": [
+        -121.27176666259766,
+        -5.025516033172607,
+        534.5975341796875
+      ],
+      "bufferView": 14,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 22011,
+      "bufferView": 14,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 24906,
+      "bufferView": 15,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24906,
+      "bufferView": 15,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24906,
+      "max": [
+        -64.99430084228516,
+        42.43513870239258,
+        564.9960327148438
+      ],
+      "min": [
+        -125.99718475341797,
+        -4.1323981285095215,
+        528.921630859375
+      ],
+      "bufferView": 15,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 24906,
+      "bufferView": 15,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 24893,
+      "bufferView": 16,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24893,
+      "bufferView": 16,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24893,
+      "max": [
+        -48.623924255371094,
+        74.51253509521484,
+        561.2846069335938
+      ],
+      "min": [
+        -111.8745346069336,
+        -1.2280162572860718,
+        528.5035400390625
+      ],
+      "bufferView": 16,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 24893,
+      "bufferView": 16,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 18434,
+      "bufferView": 17,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18434,
+      "bufferView": 17,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18434,
+      "max": [
+        -36.58313751220703,
+        42.70614242553711,
+        538.1459350585938
+      ],
+      "min": [
+        -66.21576690673828,
+        -15.892950057983398,
+        523.4379272460938
+      ],
+      "bufferView": 17,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 18434,
+      "bufferView": 17,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 18514,
+      "bufferView": 18,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18514,
+      "bufferView": 18,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 18514,
+      "max": [
+        -27.41704559326172,
+        46.005367279052734,
+        551.2368774414062
+      ],
+      "min": [
+        -69.35182189941406,
+        -24.741823196411133,
+        521.3369140625
+      ],
+      "bufferView": 18,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 18514,
+      "bufferView": 18,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 23670,
+      "bufferView": 19,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 23670,
+      "bufferView": 19,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 23670,
+      "max": [
+        -34.0688591003418,
+        50.525691986083984,
+        557.6070556640625
+      ],
+      "min": [
+        -73.42150115966797,
+        -24.65957260131836,
+        521.483642578125
+      ],
+      "bufferView": 19,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 23670,
+      "bufferView": 19,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 26060,
+      "bufferView": 20,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 26060,
+      "bufferView": 20,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 26060,
+      "max": [
+        -7.640035629272461,
+        55.67503356933594,
+        540.0790405273438
+      ],
+      "min": [
+        -70.06669616699219,
+        -36.99424743652344,
+        513.5660400390625
+      ],
+      "bufferView": 20,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 26060,
+      "bufferView": 20,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 23264,
+      "bufferView": 21,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 23264,
+      "bufferView": 21,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 23264,
+      "max": [
+        -0.6074938774108887,
+        25.452062606811523,
+        539.7374877929688
+      ],
+      "min": [
+        -45.863216400146484,
+        -36.65126419067383,
+        512.2688598632812
+      ],
+      "bufferView": 21,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 23264,
+      "bufferView": 21,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 24612,
+      "bufferView": 22,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24612,
+      "bufferView": 22,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 24612,
+      "max": [
+        -6.705907344818115,
+        36.18830108642578,
+        550.8605346679688
+      ],
+      "min": [
+        -79.6270980834961,
+        -24.720046997070312,
+        514.2463989257812
+      ],
+      "bufferView": 22,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 24612,
+      "bufferView": 22,
+      "byteOffset": 40
+    },
+    {
+      "type": "VEC4",
+      "componentType": 5126,
+      "count": 9504,
+      "bufferView": 23,
+      "byteOffset": 0
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 9504,
+      "bufferView": 23,
+      "byteOffset": 16
+    },
+    {
+      "type": "VEC3",
+      "componentType": 5126,
+      "count": 9504,
+      "max": [
+        -8.500611305236816,
+        10.926797866821289,
+        524.890625
+      ],
+      "min": [
+        -42.528236389160156,
+        -18.218183517456055,
+        515.296630859375
+      ],
+      "bufferView": 23,
+      "byteOffset": 28
+    },
+    {
+      "type": "VEC2",
+      "componentType": 5126,
+      "count": 9504,
+      "bufferView": 23,
+      "byteOffset": 40
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 2939336,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 2939336,
+      "byteLength": 1027392,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 3966728,
+      "byteLength": 1012896,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4979624,
+      "byteLength": 859776,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5839400,
+      "byteLength": 918336,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6757736,
+      "byteLength": 933792,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 7691528,
+      "byteLength": 865440,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 8556968,
+      "byteLength": 935136,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 9492104,
+      "byteLength": 912720,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10404824,
+      "byteLength": 949440,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 11354264,
+      "byteLength": 859824,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12214088,
+      "byteLength": 886176,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13100264,
+      "byteLength": 1006944,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 14107208,
+      "byteLength": 965040,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 15072248,
+      "byteLength": 1056528,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 16128776,
+      "byteLength": 1195488,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17324264,
+      "byteLength": 1194864,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 18519128,
+      "byteLength": 884832,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 19403960,
+      "byteLength": 888672,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20292632,
+      "byteLength": 1136160,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21428792,
+      "byteLength": 1250880,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 22679672,
+      "byteLength": 1116672,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 23796344,
+      "byteLength": 1181376,
+      "byteStride": 48,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24977720,
+      "byteLength": 456192,
+      "byteStride": 48,
+      "target": 34962
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "sampler": 0
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/jpeg",
+      "uri": "baseColor.jpg"
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "kelkaya_sinkhole_game.bin",
+      "byteLength": 25433912
+    }
+  ],
+  "materials": [
+    {
+      "name": "material0",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "roughnessFactor": 0.9577051494623774,
+        "metallicFactor": 0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 23,
+            "NORMAL": 24,
+            "POSITION": 25,
+            "TEXCOORD_0": 26
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 0
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 27,
+            "NORMAL": 28,
+            "POSITION": 29,
+            "TEXCOORD_0": 30
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 1
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 31,
+            "NORMAL": 32,
+            "POSITION": 33,
+            "TEXCOORD_0": 34
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 2
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 35,
+            "NORMAL": 36,
+            "POSITION": 37,
+            "TEXCOORD_0": 38
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 39,
+            "NORMAL": 40,
+            "POSITION": 41,
+            "TEXCOORD_0": 42
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 4
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 43,
+            "NORMAL": 44,
+            "POSITION": 45,
+            "TEXCOORD_0": 46
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 5
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 47,
+            "NORMAL": 48,
+            "POSITION": 49,
+            "TEXCOORD_0": 50
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 6
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 51,
+            "NORMAL": 52,
+            "POSITION": 53,
+            "TEXCOORD_0": 54
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 7
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 55,
+            "NORMAL": 56,
+            "POSITION": 57,
+            "TEXCOORD_0": 58
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 8
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 59,
+            "NORMAL": 60,
+            "POSITION": 61,
+            "TEXCOORD_0": 62
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 9
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 63,
+            "NORMAL": 64,
+            "POSITION": 65,
+            "TEXCOORD_0": 66
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 10
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 67,
+            "NORMAL": 68,
+            "POSITION": 69,
+            "TEXCOORD_0": 70
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 11
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 71,
+            "NORMAL": 72,
+            "POSITION": 73,
+            "TEXCOORD_0": 74
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 12
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 75,
+            "NORMAL": 76,
+            "POSITION": 77,
+            "TEXCOORD_0": 78
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 13
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 79,
+            "NORMAL": 80,
+            "POSITION": 81,
+            "TEXCOORD_0": 82
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 14
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 83,
+            "NORMAL": 84,
+            "POSITION": 85,
+            "TEXCOORD_0": 86
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 15
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 87,
+            "NORMAL": 88,
+            "POSITION": 89,
+            "TEXCOORD_0": 90
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 16
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 91,
+            "NORMAL": 92,
+            "POSITION": 93,
+            "TEXCOORD_0": 94
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 17
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 95,
+            "NORMAL": 96,
+            "POSITION": 97,
+            "TEXCOORD_0": 98
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 18
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 99,
+            "NORMAL": 100,
+            "POSITION": 101,
+            "TEXCOORD_0": 102
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 19
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 103,
+            "NORMAL": 104,
+            "POSITION": 105,
+            "TEXCOORD_0": 106
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 20
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 107,
+            "NORMAL": 108,
+            "POSITION": 109,
+            "TEXCOORD_0": 110
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 21
+        }
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 111,
+            "NORMAL": 112,
+            "POSITION": 113,
+            "TEXCOORD_0": 114
+          },
+          "mode": 4,
+          "material": 0,
+          "indices": 22
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Sketchfab_model",
+      "rotation": [
+        0.6784746977365425,
+        0.3095877465591636,
+        -0.0023318285149707754,
+        0.6661997285009746
+      ],
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "364c78a10e7c411fa4a346474ef0a6b4.fbx",
+      "rotation": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "children": [
+        2
+      ]
+    },
+    {
+      "name": "RootNode",
+      "children": [
+        3,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        59,
+        61,
+        63,
+        65,
+        67,
+        69,
+        71,
+        73,
+        75,
+        77,
+        79,
+        81,
+        83,
+        85,
+        87,
+        89,
+        91,
+        93,
+        95,
+        97,
+        99,
+        101,
+        103,
+        105,
+        107,
+        109,
+        111,
+        113,
+        115,
+        117,
+        119,
+        121,
+        123,
+        125,
+        127,
+        129,
+        131,
+        133,
+        135,
+        137,
+        139,
+        141,
+        143,
+        145,
+        147,
+        149,
+        151,
+        153,
+        155,
+        157,
+        159,
+        161,
+        163,
+        165,
+        167,
+        169,
+        171,
+        173,
+        175,
+        177,
+        179,
+        181,
+        183,
+        185,
+        187,
+        189,
+        191,
+        193,
+        195,
+        197,
+        199,
+        201,
+        203,
+        205,
+        207,
+        209,
+        211,
+        213,
+        215,
+        217,
+        219,
+        221,
+        223,
+        225,
+        227,
+        229,
+        231,
+        233,
+        235,
+        237,
+        239,
+        241,
+        243,
+        245,
+        247,
+        249,
+        251,
+        253,
+        255,
+        257,
+        259,
+        261,
+        263,
+        265,
+        267,
+        269,
+        271,
+        273,
+        275,
+        277,
+        279,
+        281,
+        283,
+        285,
+        287,
+        289,
+        291,
+        293,
+        295,
+        297,
+        299,
+        301,
+        303,
+        305,
+        307,
+        309,
+        311,
+        313,
+        315,
+        317,
+        319,
+        321,
+        323,
+        325,
+        327,
+        329,
+        331,
+        333,
+        335,
+        337,
+        339,
+        341,
+        343,
+        345,
+        347,
+        349,
+        351,
+        353,
+        355,
+        357,
+        359,
+        361,
+        363,
+        365,
+        367,
+        369,
+        371,
+        373,
+        375,
+        377,
+        379,
+        381,
+        383,
+        385,
+        387,
+        389,
+        391,
+        393
+      ]
+    },
+    {
+      "name": "Model",
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 0
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 1
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 2
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 3
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 4
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 5
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 6
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 7
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 8
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 9
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 10
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 11
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 12
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 13
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 14
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 15
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 16
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 17
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 18
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 19
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 20
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 21
+    },
+    {
+      "name": "Model_material0_0",
+      "mesh": 22
+    },
+    {
+      "name": "DJI_0215",
+      "translation": [
+        13.886474609375,
+        -8.615381240844727,
+        587.5751953125
+      ],
+      "rotation": [
+        -0.5254423315373172,
+        0.21770771837800204,
+        0.815516072322654,
+        0.10699178179049294
+      ],
+      "children": [
+        28
+      ]
+    },
+    {
+      "name": "Object_28"
+    },
+    {
+      "name": "DJI_0216",
+      "translation": [
+        12.015681266784668,
+        -6.886303424835205,
+        588.0946044921875
+      ],
+      "rotation": [
+        -0.5256195067967147,
+        0.21396603759717198,
+        0.816845852535911,
+        0.10346749259852028
+      ],
+      "children": [
+        30
+      ]
+    },
+    {
+      "name": "Object_30"
+    },
+    {
+      "name": "DJI_0217",
+      "translation": [
+        7.679047584533691,
+        -4.332270622253418,
+        589.2924194335938
+      ],
+      "rotation": [
+        -0.5316407280469543,
+        0.20615058661146546,
+        0.8157900836073521,
+        0.09667787445616824
+      ],
+      "children": [
+        32
+      ]
+    },
+    {
+      "name": "Object_32"
+    },
+    {
+      "name": "DJI_0218",
+      "translation": [
+        3.2904672622680664,
+        -1.7574131488800049,
+        591.1851806640625
+      ],
+      "rotation": [
+        -0.5323561805408631,
+        0.2053052934051398,
+        0.815595100494375,
+        0.09618349956902084
+      ],
+      "children": [
+        34
+      ]
+    },
+    {
+      "name": "Object_34"
+    },
+    {
+      "name": "DJI_0219",
+      "translation": [
+        -1.236717700958252,
+        0.5562122464179993,
+        593.3591918945312
+      ],
+      "rotation": [
+        -0.5370188391414962,
+        0.19660744760035856,
+        0.8153898100032149,
+        0.08997630631512575
+      ],
+      "children": [
+        36
+      ]
+    },
+    {
+      "name": "Object_36"
+    },
+    {
+      "name": "DJI_0220",
+      "translation": [
+        -6.48510217666626,
+        3.3045995235443115,
+        596.1710205078125
+      ],
+      "rotation": [
+        -0.5391698073189622,
+        0.19634192722476207,
+        0.8141320242206359,
+        0.08907757084535556
+      ],
+      "children": [
+        38
+      ]
+    },
+    {
+      "name": "Object_38"
+    },
+    {
+      "name": "DJI_0221",
+      "translation": [
+        -10.621073722839355,
+        5.631544589996338,
+        598.1165771484375
+      ],
+      "rotation": [
+        -0.5405470545191781,
+        0.19638916033824633,
+        0.8133374528840603,
+        0.08787700090665473
+      ],
+      "children": [
+        40
+      ]
+    },
+    {
+      "name": "Object_40"
+    },
+    {
+      "name": "DJI_0222",
+      "translation": [
+        -14.850543022155762,
+        7.899820327758789,
+        600.04248046875
+      ],
+      "rotation": [
+        -0.5413694352054308,
+        0.19574802864793012,
+        0.8129988674992712,
+        0.08737668653997217
+      ],
+      "children": [
+        42
+      ]
+    },
+    {
+      "name": "Object_42"
+    },
+    {
+      "name": "DJI_0223",
+      "translation": [
+        -19.01321792602539,
+        9.97165298461914,
+        602.1422119140625
+      ],
+      "rotation": [
+        -0.5422461284213821,
+        0.1947595056642595,
+        0.8126266060760712,
+        0.08761204405058234
+      ],
+      "children": [
+        44
+      ]
+    },
+    {
+      "name": "Object_44"
+    },
+    {
+      "name": "DJI_0224",
+      "translation": [
+        -23.394309997558594,
+        12.03506088256836,
+        604.2494506835938
+      ],
+      "rotation": [
+        -0.5425975112434589,
+        0.1932295461807812,
+        0.8126469261849689,
+        0.0886298856892836
+      ],
+      "children": [
+        46
+      ]
+    },
+    {
+      "name": "Object_46"
+    },
+    {
+      "name": "DJI_0225",
+      "translation": [
+        -28.825124740600586,
+        14.359612464904785,
+        606.7145385742188
+      ],
+      "rotation": [
+        -0.5426148525362837,
+        0.19218441297145558,
+        0.8128056660054502,
+        0.08933768816843553
+      ],
+      "children": [
+        48
+      ]
+    },
+    {
+      "name": "Object_48"
+    },
+    {
+      "name": "DJI_0226",
+      "translation": [
+        -33.76738357543945,
+        16.546772003173828,
+        608.9912109375
+      ],
+      "rotation": [
+        -0.5428233948072416,
+        0.19159092618627005,
+        0.8127929966903297,
+        0.08946073766844603
+      ],
+      "children": [
+        50
+      ]
+    },
+    {
+      "name": "Object_50"
+    },
+    {
+      "name": "DJI_0227",
+      "translation": [
+        -39.3683967590332,
+        18.99384117126465,
+        611.663818359375
+      ],
+      "rotation": [
+        -0.5422747893611481,
+        0.19053467624729153,
+        0.813355273892303,
+        0.0899321322011162
+      ],
+      "children": [
+        52
+      ]
+    },
+    {
+      "name": "Object_52"
+    },
+    {
+      "name": "DJI_0228",
+      "translation": [
+        -45.55093002319336,
+        21.5718936920166,
+        614.603515625
+      ],
+      "rotation": [
+        -0.5416219158337674,
+        0.1897582808204377,
+        0.8139736595406833,
+        0.08991316212089966
+      ],
+      "children": [
+        54
+      ]
+    },
+    {
+      "name": "Object_54"
+    },
+    {
+      "name": "DJI_0229",
+      "translation": [
+        -51.9530143737793,
+        24.299602508544922,
+        617.5108642578125
+      ],
+      "rotation": [
+        -0.5414469967570048,
+        0.18898659119907676,
+        0.8143061405145228,
+        0.08958084376760224
+      ],
+      "children": [
+        56
+      ]
+    },
+    {
+      "name": "Object_56"
+    },
+    {
+      "name": "DJI_0230",
+      "translation": [
+        -53.80875015258789,
+        28.036046981811523,
+        614.2144775390625
+      ],
+      "rotation": [
+        -0.5299142037747935,
+        0.17169233013623036,
+        0.8249912454822007,
+        0.09540505902647768
+      ],
+      "children": [
+        58
+      ]
+    },
+    {
+      "name": "Object_58"
+    },
+    {
+      "name": "DJI_0231",
+      "translation": [
+        -51.48497772216797,
+        30.60519790649414,
+        613.9329223632812
+      ],
+      "rotation": [
+        -0.5400440426432154,
+        0.14016730305640812,
+        0.8197543944673553,
+        0.12926055821837404
+      ],
+      "children": [
+        60
+      ]
+    },
+    {
+      "name": "Object_60"
+    },
+    {
+      "name": "DJI_0232",
+      "translation": [
+        -47.88835144042969,
+        29.2032470703125,
+        612.0421752929688
+      ],
+      "rotation": [
+        -0.5441381727991327,
+        0.14044831668292357,
+        0.8170655701353384,
+        0.1288090576907108
+      ],
+      "children": [
+        62
+      ]
+    },
+    {
+      "name": "Object_62"
+    },
+    {
+      "name": "DJI_0233",
+      "translation": [
+        -44.2397575378418,
+        27.466245651245117,
+        610.4664306640625
+      ],
+      "rotation": [
+        -0.5457832476827047,
+        0.14033847770011382,
+        0.8159771317484267,
+        0.12886845498160107
+      ],
+      "children": [
+        64
+      ]
+    },
+    {
+      "name": "Object_64"
+    },
+    {
+      "name": "DJI_0234",
+      "translation": [
+        -39.27322006225586,
+        25.314655303955078,
+        608.1859130859375
+      ],
+      "rotation": [
+        -0.5466890883644516,
+        0.14080651901108132,
+        0.8153584721756951,
+        0.1284333551634583
+      ],
+      "children": [
+        66
+      ]
+    },
+    {
+      "name": "Object_66"
+    },
+    {
+      "name": "DJI_0235",
+      "translation": [
+        -34.8447265625,
+        23.41315460205078,
+        606.1341552734375
+      ],
+      "rotation": [
+        -0.5469607687472877,
+        0.14117767685874627,
+        0.8151335746928586,
+        0.12829667344317772
+      ],
+      "children": [
+        68
+      ]
+    },
+    {
+      "name": "Object_68"
+    },
+    {
+      "name": "DJI_0236",
+      "translation": [
+        -30.08871841430664,
+        21.479795455932617,
+        603.9597778320312
+      ],
+      "rotation": [
+        -0.5465551385122737,
+        0.1418977316797076,
+        0.8153452887096801,
+        0.12788500494159366
+      ],
+      "children": [
+        70
+      ]
+    },
+    {
+      "name": "Object_70"
+    },
+    {
+      "name": "DJI_0237",
+      "translation": [
+        -24.80972671508789,
+        19.363590240478516,
+        601.5552368164062
+      ],
+      "rotation": [
+        -0.5464068723115932,
+        0.14237523900891172,
+        0.8153545529804209,
+        0.1279287854312529
+      ],
+      "children": [
+        72
+      ]
+    },
+    {
+      "name": "Object_72"
+    },
+    {
+      "name": "DJI_0238",
+      "translation": [
+        -19.951034545898438,
+        17.44076919555664,
+        599.3639526367188
+      ],
+      "rotation": [
+        -0.5466698442515266,
+        0.14271871848401504,
+        0.8151087376317114,
+        0.12798904100246228
+      ],
+      "children": [
+        74
+      ]
+    },
+    {
+      "name": "Object_74"
+    },
+    {
+      "name": "DJI_0239",
+      "translation": [
+        -14.676487922668457,
+        15.418362617492676,
+        597.0022583007812
+      ],
+      "rotation": [
+        -0.5463867180398314,
+        0.1434566515206779,
+        0.815157922174383,
+        0.12805977276443642
+      ],
+      "children": [
+        76
+      ]
+    },
+    {
+      "name": "Object_76"
+    },
+    {
+      "name": "DJI_0240",
+      "translation": [
+        -9.433389663696289,
+        13.37840747833252,
+        594.62451171875
+      ],
+      "rotation": [
+        -0.5456094418999947,
+        0.144310138673654,
+        0.8154841704169491,
+        0.12833740134873925
+      ],
+      "children": [
+        78
+      ]
+    },
+    {
+      "name": "Object_78"
+    },
+    {
+      "name": "DJI_0241",
+      "translation": [
+        -4.032834529876709,
+        11.322251319885254,
+        592.1998291015625
+      ],
+      "rotation": [
+        -0.545769528724314,
+        0.14470353193880364,
+        0.8152188787601122,
+        0.12889797932311198
+      ],
+      "children": [
+        80
+      ]
+    },
+    {
+      "name": "Object_80"
+    },
+    {
+      "name": "DJI_0242",
+      "translation": [
+        1.425145149230957,
+        9.259692192077637,
+        589.7984008789062
+      ],
+      "rotation": [
+        -0.5456599641322202,
+        0.1452180646866667,
+        0.8151440428364674,
+        0.12925597340201642
+      ],
+      "children": [
+        82
+      ]
+    },
+    {
+      "name": "Object_82"
+    },
+    {
+      "name": "DJI_0243",
+      "translation": [
+        8.573614120483398,
+        10.58244800567627,
+        566.7921752929688
+      ],
+      "rotation": [
+        -0.18529313586116963,
+        0.6291239893712949,
+        0.6991464417241295,
+        0.28471689943656187
+      ],
+      "children": [
+        84
+      ]
+    },
+    {
+      "name": "Object_84"
+    },
+    {
+      "name": "DJI_0244",
+      "translation": [
+        6.171194553375244,
+        10.62260913848877,
+        567.9344482421875
+      ],
+      "rotation": [
+        -0.18663631697859998,
+        0.6259669314831913,
+        0.7008488886185258,
+        0.2866062127665041
+      ],
+      "children": [
+        86
+      ]
+    },
+    {
+      "name": "Object_86"
+    },
+    {
+      "name": "DJI_0245",
+      "translation": [
+        4.169672966003418,
+        10.264307022094727,
+        569.1675415039062
+      ],
+      "rotation": [
+        -0.20210758112657135,
+        0.6132869184499685,
+        0.7130080668878752,
+        0.2732236773453639
+      ],
+      "children": [
+        88
+      ]
+    },
+    {
+      "name": "Object_88"
+    },
+    {
+      "name": "DJI_0246",
+      "translation": [
+        -0.8243040442466736,
+        9.793824195861816,
+        571.1478271484375
+      ],
+      "rotation": [
+        -0.20677820856626863,
+        0.6117869541041105,
+        0.7132064146135888,
+        0.2725731193719761
+      ],
+      "children": [
+        90
+      ]
+    },
+    {
+      "name": "Object_90"
+    },
+    {
+      "name": "DJI_0247",
+      "translation": [
+        -3.7277424335479736,
+        9.610183715820312,
+        571.8262939453125
+      ],
+      "rotation": [
+        -0.20933109006395492,
+        0.6100174566073332,
+        0.7144315556982869,
+        0.2713793462839103
+      ],
+      "children": [
+        92
+      ]
+    },
+    {
+      "name": "Object_92"
+    },
+    {
+      "name": "DJI_0248",
+      "translation": [
+        -7.180405139923096,
+        9.131389617919922,
+        572.9437866210938
+      ],
+      "rotation": [
+        -0.20545292993194564,
+        0.6130724360087143,
+        0.7121878264458117,
+        0.27334919361708476
+      ],
+      "children": [
+        94
+      ]
+    },
+    {
+      "name": "Object_94"
+    },
+    {
+      "name": "DJI_0249",
+      "translation": [
+        -9.574666023254395,
+        8.707600593566895,
+        573.8705444335938
+      ],
+      "rotation": [
+        -0.20094961583778395,
+        0.6162745815299582,
+        0.7104878744552102,
+        0.2739194631763861
+      ],
+      "children": [
+        96
+      ]
+    },
+    {
+      "name": "Object_96"
+    },
+    {
+      "name": "DJI_0250",
+      "translation": [
+        -12.800143241882324,
+        8.237712860107422,
+        575.1448974609375
+      ],
+      "rotation": [
+        -0.1963953889346345,
+        0.6189445245596328,
+        0.708327029676987,
+        0.27678393333400075
+      ],
+      "children": [
+        98
+      ]
+    },
+    {
+      "name": "Object_98"
+    },
+    {
+      "name": "DJI_0251",
+      "translation": [
+        -16.55061912536621,
+        7.8810906410217285,
+        576.5715942382812
+      ],
+      "rotation": [
+        -0.1954121784736056,
+        0.6186443345141478,
+        0.7096349301531222,
+        0.2747936203486543
+      ],
+      "children": [
+        100
+      ]
+    },
+    {
+      "name": "Object_100"
+    },
+    {
+      "name": "DJI_0252",
+      "translation": [
+        -19.495777130126953,
+        7.743961334228516,
+        577.6695556640625
+      ],
+      "rotation": [
+        -0.19566422483661067,
+        0.6185823410843104,
+        0.7098438492056252,
+        0.2742136177557269
+      ],
+      "children": [
+        102
+      ]
+    },
+    {
+      "name": "Object_102"
+    },
+    {
+      "name": "DJI_0253",
+      "translation": [
+        -23.356130599975586,
+        7.735886573791504,
+        578.9198608398438
+      ],
+      "rotation": [
+        -0.1981803768134881,
+        0.616120279641405,
+        0.7107255788462596,
+        0.2756619140075573
+      ],
+      "children": [
+        104
+      ]
+    },
+    {
+      "name": "Object_104"
+    },
+    {
+      "name": "DJI_0254",
+      "translation": [
+        -29.007261276245117,
+        4.875123500823975,
+        554.4384155273438
+      ],
+      "rotation": [
+        -0.12642262590700157,
+        0.6287490840360265,
+        0.7474617842041247,
+        0.1731842664245879
+      ],
+      "children": [
+        106
+      ]
+    },
+    {
+      "name": "Object_106"
+    },
+    {
+      "name": "DJI_0255",
+      "translation": [
+        -29.05605125427246,
+        5.8392133712768555,
+        554.4944458007812
+      ],
+      "rotation": [
+        -0.12872840747954786,
+        0.6290389989332387,
+        0.7469902550864367,
+        0.17246592050242487
+      ],
+      "children": [
+        108
+      ]
+    },
+    {
+      "name": "Object_108"
+    },
+    {
+      "name": "DJI_0256",
+      "translation": [
+        -28.947479248046875,
+        7.936173915863037,
+        554.8878784179688
+      ],
+      "rotation": [
+        -0.13141984883828103,
+        0.6297359192498221,
+        0.7463630566911579,
+        0.17059801565239993
+      ],
+      "children": [
+        110
+      ]
+    },
+    {
+      "name": "Object_110"
+    },
+    {
+      "name": "DJI_0257",
+      "translation": [
+        -28.827579498291016,
+        9.702654838562012,
+        555.1131591796875
+      ],
+      "rotation": [
+        -0.1333318196135029,
+        0.6296781267072101,
+        0.7466279960253956,
+        0.1681508792012483
+      ],
+      "children": [
+        112
+      ]
+    },
+    {
+      "name": "Object_112"
+    },
+    {
+      "name": "DJI_0258",
+      "translation": [
+        -28.63970375061035,
+        12.081282615661621,
+        555.51513671875
+      ],
+      "rotation": [
+        -0.13690473231820277,
+        0.6300337252841627,
+        0.7463612044319595,
+        0.16510466920204392
+      ],
+      "children": [
+        114
+      ]
+    },
+    {
+      "name": "Object_114"
+    },
+    {
+      "name": "DJI_0259",
+      "translation": [
+        -28.488948822021484,
+        14.549530029296875,
+        555.962646484375
+      ],
+      "rotation": [
+        -0.13908693366045413,
+        0.6301862928659503,
+        0.746273588230217,
+        0.16308216542221807
+      ],
+      "children": [
+        116
+      ]
+    },
+    {
+      "name": "Object_116"
+    },
+    {
+      "name": "DJI_0260",
+      "translation": [
+        -28.47257423400879,
+        17.033151626586914,
+        556.4151000976562
+      ],
+      "rotation": [
+        -0.14066367985704922,
+        0.6299208949486385,
+        0.7463965005795528,
+        0.16219019452105543
+      ],
+      "children": [
+        118
+      ]
+    },
+    {
+      "name": "Object_118"
+    },
+    {
+      "name": "DJI_0261",
+      "translation": [
+        -31.2427921295166,
+        18.43335723876953,
+        545.1093139648438
+      ],
+      "rotation": [
+        -0.05861167433306484,
+        0.6326615134164945,
+        0.7688185077540483,
+        0.07226467469147081
+      ],
+      "children": [
+        120
+      ]
+    },
+    {
+      "name": "Object_120"
+    },
+    {
+      "name": "DJI_0262",
+      "translation": [
+        -31.25528335571289,
+        17.61646270751953,
+        544.9335327148438
+      ],
+      "rotation": [
+        -0.05894168313274753,
+        0.632809758366726,
+        0.7687433348363985,
+        0.07149386582034523
+      ],
+      "children": [
+        122
+      ]
+    },
+    {
+      "name": "Object_122"
+    },
+    {
+      "name": "DJI_0263",
+      "translation": [
+        -31.277097702026367,
+        16.524118423461914,
+        544.756591796875
+      ],
+      "rotation": [
+        -0.06030694019401126,
+        0.6330842633377426,
+        0.7685486866489193,
+        0.0700021766001974
+      ],
+      "children": [
+        124
+      ]
+    },
+    {
+      "name": "Object_124"
+    },
+    {
+      "name": "DJI_0264",
+      "translation": [
+        -31.322389602661133,
+        15.123888969421387,
+        544.56591796875
+      ],
+      "rotation": [
+        -0.06244810404409257,
+        0.6333775515857509,
+        0.7682886609052167,
+        0.06830552666517327
+      ],
+      "children": [
+        126
+      ]
+    },
+    {
+      "name": "Object_126"
+    },
+    {
+      "name": "DJI_0265",
+      "translation": [
+        -31.36182403564453,
+        13.844804763793945,
+        544.4102172851562
+      ],
+      "rotation": [
+        -0.06326431885613729,
+        0.6338729791250272,
+        0.7678673694089085,
+        0.06769324406375288
+      ],
+      "children": [
+        128
+      ]
+    },
+    {
+      "name": "Object_128"
+    },
+    {
+      "name": "DJI_0266",
+      "translation": [
+        -31.386451721191406,
+        12.235102653503418,
+        544.1687622070312
+      ],
+      "rotation": [
+        -0.06312310837880869,
+        0.6341519460416574,
+        0.7676640775980278,
+        0.06751774941261997
+      ],
+      "children": [
+        130
+      ]
+    },
+    {
+      "name": "Object_130"
+    },
+    {
+      "name": "DJI_0267",
+      "translation": [
+        -31.468076705932617,
+        14.264067649841309,
+        544.5989990234375
+      ],
+      "rotation": [
+        -0.06388276855650626,
+        0.6352267257338361,
+        0.7667494106931576,
+        0.06709202632743472
+      ],
+      "children": [
+        132
+      ]
+    },
+    {
+      "name": "Object_132"
+    },
+    {
+      "name": "DJI_0268",
+      "translation": [
+        -31.391019821166992,
+        16.925079345703125,
+        544.9639282226562
+      ],
+      "rotation": [
+        -0.06453548142959417,
+        0.6363122796091525,
+        0.7659302105407417,
+        0.06551921119999425
+      ],
+      "children": [
+        134
+      ]
+    },
+    {
+      "name": "Object_134"
+    },
+    {
+      "name": "DJI_0269",
+      "translation": [
+        -31.340208053588867,
+        19.00690269470215,
+        545.085205078125
+      ],
+      "rotation": [
+        -0.06410194094312782,
+        0.6365423754400619,
+        0.7658154594920709,
+        0.06504942305198051
+      ],
+      "children": [
+        136
+      ]
+    },
+    {
+      "name": "Object_136"
+    },
+    {
+      "name": "DJI_0270",
+      "translation": [
+        -31.228744506835938,
+        21.400192260742188,
+        545.5729370117188
+      ],
+      "rotation": [
+        -0.06551249019335521,
+        0.6371755006635821,
+        0.7652743921787655,
+        0.06380125122754363
+      ],
+      "children": [
+        138
+      ]
+    },
+    {
+      "name": "Object_138"
+    },
+    {
+      "name": "DJI_0271",
+      "translation": [
+        -47.30685043334961,
+        24.125444412231445,
+        538.4112548828125
+      ],
+      "rotation": [
+        -0.06098088546166731,
+        0.6349805393812457,
+        0.7672479747458859,
+        0.06641981228330693
+      ],
+      "children": [
+        140
+      ]
+    },
+    {
+      "name": "Object_140"
+    },
+    {
+      "name": "DJI_0272",
+      "translation": [
+        -47.401920318603516,
+        23.246139526367188,
+        538.1776733398438
+      ],
+      "rotation": [
+        -0.060611624974419284,
+        0.6349683845907467,
+        0.7671736562398781,
+        0.06771973611670017
+      ],
+      "children": [
+        142
+      ]
+    },
+    {
+      "name": "Object_142"
+    },
+    {
+      "name": "DJI_0273",
+      "translation": [
+        -47.41367721557617,
+        22.522737503051758,
+        538.0300903320312
+      ],
+      "rotation": [
+        -0.061452057636611844,
+        0.6348268975667171,
+        0.7672105289331593,
+        0.06787089974462902
+      ],
+      "children": [
+        144
+      ]
+    },
+    {
+      "name": "Object_144"
+    },
+    {
+      "name": "DJI_0274",
+      "translation": [
+        -47.4288215637207,
+        21.046293258666992,
+        537.7688598632812
+      ],
+      "rotation": [
+        -0.06257612723632947,
+        0.6350368674055099,
+        0.7669644257555118,
+        0.06766073426602381
+      ],
+      "children": [
+        146
+      ]
+    },
+    {
+      "name": "Object_146"
+    },
+    {
+      "name": "DJI_0275",
+      "translation": [
+        -47.46348571777344,
+        19.93381690979004,
+        537.5919189453125
+      ],
+      "rotation": [
+        -0.0630142242501443,
+        0.6350475168197909,
+        0.766910828635169,
+        0.06776163992472797
+      ],
+      "children": [
+        148
+      ]
+    },
+    {
+      "name": "Object_148"
+    },
+    {
+      "name": "DJI_0276",
+      "translation": [
+        -47.4666862487793,
+        18.32318687438965,
+        537.2901611328125
+      ],
+      "rotation": [
+        -0.06404665086058298,
+        0.6355058425375525,
+        0.766500264024086,
+        0.06713937641343265
+      ],
+      "children": [
+        150
+      ]
+    },
+    {
+      "name": "Object_150"
+    },
+    {
+      "name": "DJI_0277",
+      "translation": [
+        -47.46183776855469,
+        16.802316665649414,
+        536.98291015625
+      ],
+      "rotation": [
+        -0.06362814173965319,
+        0.6360770168106976,
+        0.7660484908006184,
+        0.06728445590221312
+      ],
+      "children": [
+        152
+      ]
+    },
+    {
+      "name": "Object_152"
+    },
+    {
+      "name": "DJI_0278",
+      "translation": [
+        -47.412105560302734,
+        15.41552734375,
+        536.6952514648438
+      ],
+      "rotation": [
+        -0.06298461804806633,
+        0.6364438705752419,
+        0.7657811930933545,
+        0.06746333671752862
+      ],
+      "children": [
+        154
+      ]
+    },
+    {
+      "name": "Object_154"
+    },
+    {
+      "name": "DJI_0279",
+      "translation": [
+        -47.3765983581543,
+        13.743001937866211,
+        536.35595703125
+      ],
+      "rotation": [
+        -0.061976412190893254,
+        0.6368546812323337,
+        0.76550019076614,
+        0.0677089156715014
+      ],
+      "children": [
+        156
+      ]
+    },
+    {
+      "name": "Object_156"
+    },
+    {
+      "name": "DJI_0280",
+      "translation": [
+        -47.35825729370117,
+        11.081629753112793,
+        535.8432006835938
+      ],
+      "rotation": [
+        -0.06151680865221995,
+        0.6371499434906808,
+        0.765247646861456,
+        0.06820315781599023
+      ],
+      "children": [
+        158
+      ]
+    },
+    {
+      "name": "Object_158"
+    },
+    {
+      "name": "DJI_0281",
+      "translation": [
+        -55.317535400390625,
+        13.385613441467285,
+        536.2755737304688
+      ],
+      "rotation": [
+        -0.039974640481443016,
+        0.6369366955726906,
+        0.7681042296535037,
+        0.05224525183898331
+      ],
+      "children": [
+        160
+      ]
+    },
+    {
+      "name": "Object_160"
+    },
+    {
+      "name": "DJI_0282",
+      "translation": [
+        -55.26142883300781,
+        16.486164093017578,
+        536.752685546875
+      ],
+      "rotation": [
+        -0.05759076473235723,
+        0.6379292190130198,
+        0.7643190134252322,
+        0.0744718810267386
+      ],
+      "children": [
+        162
+      ]
+    },
+    {
+      "name": "Object_162"
+    },
+    {
+      "name": "DJI_0283",
+      "translation": [
+        -55.20286178588867,
+        17.323474884033203,
+        536.904052734375
+      ],
+      "rotation": [
+        -0.05796493465435093,
+        0.6383615691007486,
+        0.7639895196378355,
+        0.07385517808045992
+      ],
+      "children": [
+        164
+      ]
+    },
+    {
+      "name": "Object_164"
+    },
+    {
+      "name": "DJI_0284",
+      "translation": [
+        -55.18428421020508,
+        17.99507713317871,
+        537.0159301757812
+      ],
+      "rotation": [
+        -0.04093892799942427,
+        0.6465157980517792,
+        0.7567207937030257,
+        0.08783488726691673
+      ],
+      "children": [
+        166
+      ]
+    },
+    {
+      "name": "Object_166"
+    },
+    {
+      "name": "DJI_0285",
+      "translation": [
+        -55.15773010253906,
+        18.46063804626465,
+        537.0794067382812
+      ],
+      "rotation": [
+        -0.02682888712085231,
+        0.6529365782098843,
+        0.7503899321271926,
+        0.09934276729370693
+      ],
+      "children": [
+        168
+      ]
+    },
+    {
+      "name": "Object_168"
+    },
+    {
+      "name": "DJI_0286",
+      "translation": [
+        -55.172298431396484,
+        19.162799835205078,
+        537.2417602539062
+      ],
+      "rotation": [
+        -0.017555194955678987,
+        0.6573637914849522,
+        0.745662939284312,
+        0.10747763373128799
+      ],
+      "children": [
+        170
+      ]
+    },
+    {
+      "name": "Object_170"
+    },
+    {
+      "name": "DJI_0287",
+      "translation": [
+        -55.12003707885742,
+        19.959579467773438,
+        537.3856811523438
+      ],
+      "rotation": [
+        -0.006725644512067334,
+        0.6623948996041393,
+        0.7399303835037526,
+        0.11700765040077088
+      ],
+      "children": [
+        172
+      ]
+    },
+    {
+      "name": "Object_172"
+    },
+    {
+      "name": "DJI_0288",
+      "translation": [
+        -54.95514678955078,
+        21.05803108215332,
+        537.4965209960938
+      ],
+      "rotation": [
+        -0.003794762033801042,
+        0.6641908530414973,
+        0.7379173865747035,
+        0.11964130184795994
+      ],
+      "children": [
+        174
+      ]
+    },
+    {
+      "name": "Object_174"
+    },
+    {
+      "name": "DJI_0289",
+      "translation": [
+        -56.50558853149414,
+        14.75756549835205,
+        531.3765869140625
+      ],
+      "rotation": [
+        -0.09090722596886022,
+        0.6271020992138874,
+        0.7734188712328385,
+        -0.017380536502202556
+      ],
+      "children": [
+        176
+      ]
+    },
+    {
+      "name": "Object_176"
+    },
+    {
+      "name": "DJI_0290",
+      "translation": [
+        -56.653594970703125,
+        15.366167068481445,
+        531.5949096679688
+      ],
+      "rotation": [
+        -0.05455002754913913,
+        0.643990413866057,
+        0.762947378991188,
+        0.014558098553358743
+      ],
+      "children": [
+        178
+      ]
+    },
+    {
+      "name": "Object_178"
+    },
+    {
+      "name": "DJI_0291",
+      "translation": [
+        -56.811893463134766,
+        16.3808650970459,
+        531.8203125
+      ],
+      "rotation": [
+        -0.020795958146792505,
+        0.6578876397507734,
+        0.7515762331887527,
+        0.043411372861487815
+      ],
+      "children": [
+        180
+      ]
+    },
+    {
+      "name": "Object_180"
+    },
+    {
+      "name": "DJI_0292",
+      "translation": [
+        -56.59037399291992,
+        17.733652114868164,
+        531.9760131835938
+      ],
+      "rotation": [
+        0.006708259799623034,
+        0.6675757139558041,
+        0.7415793988068761,
+        0.06601257949884573
+      ],
+      "children": [
+        182
+      ]
+    },
+    {
+      "name": "Object_182"
+    },
+    {
+      "name": "DJI_0293",
+      "translation": [
+        -56.377044677734375,
+        19.086620330810547,
+        532.27734375
+      ],
+      "rotation": [
+        0.041069226206862694,
+        0.6775868573133736,
+        0.728245207657838,
+        0.09406533356315616
+      ],
+      "children": [
+        184
+      ]
+    },
+    {
+      "name": "Object_184"
+    },
+    {
+      "name": "DJI_0294",
+      "translation": [
+        -60.28020095825195,
+        14.771445274353027,
+        532.1990966796875
+      ],
+      "rotation": [
+        -0.007639537002744996,
+        0.644471623146806,
+        0.7616983103370862,
+        -0.06643529530703482
+      ],
+      "children": [
+        186
+      ]
+    },
+    {
+      "name": "Object_186"
+    },
+    {
+      "name": "DJI_0295",
+      "translation": [
+        -60.2857780456543,
+        15.563497543334961,
+        532.3142700195312
+      ],
+      "rotation": [
+        0.015467212347880436,
+        0.6502706032098313,
+        0.7579933945964249,
+        -0.04852753539482668
+      ],
+      "children": [
+        188
+      ]
+    },
+    {
+      "name": "Object_188"
+    },
+    {
+      "name": "DJI_0296",
+      "translation": [
+        -60.099220275878906,
+        16.348419189453125,
+        532.4521484375
+      ],
+      "rotation": [
+        0.06489427492339837,
+        0.6637209007542574,
+        0.7451347954259853,
+        -0.006118466278313927
+      ],
+      "children": [
+        190
+      ]
+    },
+    {
+      "name": "Object_190"
+    },
+    {
+      "name": "DJI_0297",
+      "translation": [
+        -59.7392578125,
+        17.27225685119629,
+        532.5198974609375
+      ],
+      "rotation": [
+        0.0868352437043324,
+        0.6696543481776368,
+        0.7374896635248155,
+        0.011475652994407157
+      ],
+      "children": [
+        192
+      ]
+    },
+    {
+      "name": "Object_192"
+    },
+    {
+      "name": "DJI_0298",
+      "translation": [
+        -59.63278579711914,
+        18.1289119720459,
+        532.670654296875
+      ],
+      "rotation": [
+        0.138572550347816,
+        0.6810957871264436,
+        0.7167815471850982,
+        0.05594989422375372
+      ],
+      "children": [
+        194
+      ]
+    },
+    {
+      "name": "Object_194"
+    },
+    {
+      "name": "DJI_0299",
+      "translation": [
+        -59.146453857421875,
+        19.017885208129883,
+        532.7279663085938
+      ],
+      "rotation": [
+        0.2385129898072486,
+        0.6928271131595843,
+        0.6656438706716384,
+        0.14149340055791645
+      ],
+      "children": [
+        196
+      ]
+    },
+    {
+      "name": "Object_196"
+    },
+    {
+      "name": "DJI_0300",
+      "translation": [
+        -63.642478942871094,
+        14.065116882324219,
+        532.8851318359375
+      ],
+      "rotation": [
+        0.05642457557996387,
+        0.6557042502031849,
+        0.7523254731692309,
+        -0.02957339947981813
+      ],
+      "children": [
+        198
+      ]
+    },
+    {
+      "name": "Object_198"
+    },
+    {
+      "name": "DJI_0301",
+      "translation": [
+        -63.435081481933594,
+        15.124021530151367,
+        532.7035522460938
+      ],
+      "rotation": [
+        0.06424002004819622,
+        0.6533871631246795,
+        0.7538153361751349,
+        -0.026849093751173718
+      ],
+      "children": [
+        200
+      ]
+    },
+    {
+      "name": "Object_200"
+    },
+    {
+      "name": "DJI_0302",
+      "translation": [
+        -63.3725471496582,
+        15.8960542678833,
+        532.6024169921875
+      ],
+      "rotation": [
+        0.11277619670770482,
+        0.6645995442651326,
+        0.7385358996414442,
+        0.012397586842847717
+      ],
+      "children": [
+        202
+      ]
+    },
+    {
+      "name": "Object_202"
+    },
+    {
+      "name": "DJI_0303",
+      "translation": [
+        -63.4329719543457,
+        17.270612716674805,
+        532.7408447265625
+      ],
+      "rotation": [
+        0.0900453390043494,
+        0.6580388668847981,
+        0.747534878314611,
+        -0.008263915278044804
+      ],
+      "children": [
+        204
+      ]
+    },
+    {
+      "name": "Object_204"
+    },
+    {
+      "name": "DJI_0304",
+      "translation": [
+        -63.313133239746094,
+        18.17831802368164,
+        532.9135131835938
+      ],
+      "rotation": [
+        0.11692191235370417,
+        0.666081731452471,
+        0.7365244779380827,
+        0.014003100901793812
+      ],
+      "children": [
+        206
+      ]
+    },
+    {
+      "name": "Object_206"
+    },
+    {
+      "name": "DJI_0305",
+      "translation": [
+        -63.133331298828125,
+        19.167137145996094,
+        533.0446166992188
+      ],
+      "rotation": [
+        0.19221998380097174,
+        0.6804999512495693,
+        0.7028201947710784,
+        0.07755686944965891
+      ],
+      "children": [
+        208
+      ]
+    },
+    {
+      "name": "Object_208"
+    },
+    {
+      "name": "DJI_0306",
+      "translation": [
+        -63.22028350830078,
+        20.329116821289062,
+        533.7894897460938
+      ],
+      "rotation": [
+        0.16325057922328853,
+        0.6747488405575982,
+        0.7179676890379214,
+        0.050849267910013735
+      ],
+      "children": [
+        210
+      ]
+    },
+    {
+      "name": "Object_210"
+    },
+    {
+      "name": "DJI_0307",
+      "translation": [
+        -63.330204010009766,
+        21.716670989990234,
+        534.7685546875
+      ],
+      "rotation": [
+        0.2022528040551135,
+        0.6785571811740252,
+        0.7010087408232133,
+        0.08509230528348635
+      ],
+      "children": [
+        212
+      ]
+    },
+    {
+      "name": "Object_212"
+    },
+    {
+      "name": "DJI_0308",
+      "translation": [
+        -65.27738189697266,
+        22.650510787963867,
+        534.5902709960938
+      ],
+      "rotation": [
+        0.25309389604936805,
+        0.6817745673458236,
+        0.6701745029863604,
+        0.14830055512354479
+      ],
+      "children": [
+        214
+      ]
+    },
+    {
+      "name": "Object_214"
+    },
+    {
+      "name": "DJI_0309",
+      "translation": [
+        -65.46755981445312,
+        22.000967025756836,
+        534.4835815429688
+      ],
+      "rotation": [
+        0.2019525985978963,
+        0.6730195991818105,
+        0.7035987321897657,
+        0.1058706337832474
+      ],
+      "children": [
+        216
+      ]
+    },
+    {
+      "name": "Object_216"
+    },
+    {
+      "name": "DJI_0310",
+      "translation": [
+        -65.78167724609375,
+        21.319337844848633,
+        534.326904296875
+      ],
+      "rotation": [
+        0.1840582469596339,
+        0.6684196303552586,
+        0.7153108934975262,
+        0.08756760317410023
+      ],
+      "children": [
+        218
+      ]
+    },
+    {
+      "name": "Object_218"
+    },
+    {
+      "name": "DJI_0311",
+      "translation": [
+        -65.8144302368164,
+        21.311342239379883,
+        535.092529296875
+      ],
+      "rotation": [
+        -0.025833745432437938,
+        0.6490862177093916,
+        0.7580603414875682,
+        0.05800188135224449
+      ],
+      "children": [
+        220
+      ]
+    },
+    {
+      "name": "Object_220"
+    },
+    {
+      "name": "DJI_0312",
+      "translation": [
+        -67.46741485595703,
+        21.639816284179688,
+        534.9922485351562
+      ],
+      "rotation": [
+        0.09277786515449904,
+        0.6926416697535527,
+        0.6982658005487413,
+        0.15512787255167748
+      ],
+      "children": [
+        222
+      ]
+    },
+    {
+      "name": "Object_222"
+    },
+    {
+      "name": "DJI_0313",
+      "translation": [
+        -67.70545959472656,
+        20.79131507873535,
+        534.1843872070312
+      ],
+      "rotation": [
+        0.029275095903384524,
+        0.6541461376748711,
+        0.7547758479101979,
+        0.03936011606103468
+      ],
+      "children": [
+        224
+      ]
+    },
+    {
+      "name": "Object_224"
+    },
+    {
+      "name": "DJI_0314",
+      "translation": [
+        -67.91150665283203,
+        20.192386627197266,
+        533.9048461914062
+      ],
+      "rotation": [
+        0.019125829512601767,
+        0.6534915644833345,
+        0.756032255635266,
+        0.031594401935004485
+      ],
+      "children": [
+        226
+      ]
+    },
+    {
+      "name": "Object_226"
+    },
+    {
+      "name": "DJI_0315",
+      "translation": [
+        -67.954345703125,
+        19.213348388671875,
+        533.7589721679688
+      ],
+      "rotation": [
+        0.04929262019691113,
+        0.666724646196496,
+        0.7411900519525827,
+        0.06071071268572155
+      ],
+      "children": [
+        228
+      ]
+    },
+    {
+      "name": "Object_228"
+    },
+    {
+      "name": "DJI_0316",
+      "translation": [
+        -68.19302368164062,
+        18.242721557617188,
+        533.6604614257812
+      ],
+      "rotation": [
+        0.0426993743996516,
+        0.6639821631237461,
+        0.7444140811158022,
+        0.05614380033365507
+      ],
+      "children": [
+        230
+      ]
+    },
+    {
+      "name": "Object_230"
+    },
+    {
+      "name": "DJI_0317",
+      "translation": [
+        -68.20213317871094,
+        17.209331512451172,
+        533.565673828125
+      ],
+      "rotation": [
+        0.013340082878795413,
+        0.6536855603027825,
+        0.7558363084930171,
+        0.03505289152228189
+      ],
+      "children": [
+        232
+      ]
+    },
+    {
+      "name": "Object_232"
+    },
+    {
+      "name": "DJI_0318",
+      "translation": [
+        -68.2709732055664,
+        16.57673454284668,
+        533.4998168945312
+      ],
+      "rotation": [
+        -0.03318097464729807,
+        0.6357061086226982,
+        0.7712148976531132,
+        -0.00208519043252269
+      ],
+      "children": [
+        234
+      ]
+    },
+    {
+      "name": "Object_234"
+    },
+    {
+      "name": "DJI_0319",
+      "translation": [
+        -68.40794372558594,
+        15.873693466186523,
+        533.412109375
+      ],
+      "rotation": [
+        0.007635317045665748,
+        0.6528594631724135,
+        0.7566529542686261,
+        0.0345330287753713
+      ],
+      "children": [
+        236
+      ]
+    },
+    {
+      "name": "Object_236"
+    },
+    {
+      "name": "DJI_0320",
+      "translation": [
+        -68.8559341430664,
+        15.14924430847168,
+        533.4771728515625
+      ],
+      "rotation": [
+        -0.17215252274296577,
+        0.5621754927754471,
+        0.8008278200644718,
+        -0.11400450362464601
+      ],
+      "children": [
+        238
+      ]
+    },
+    {
+      "name": "Object_238"
+    },
+    {
+      "name": "DJI_0321",
+      "translation": [
+        -68.52324676513672,
+        15.61585807800293,
+        533.2850341796875
+      ],
+      "rotation": [
+        -0.18233586856229872,
+        0.5534643115584792,
+        0.8030108674950546,
+        -0.1249177071178092
+      ],
+      "children": [
+        240
+      ]
+    },
+    {
+      "name": "Object_240"
+    },
+    {
+      "name": "DJI_0322",
+      "translation": [
+        -67.90998077392578,
+        16.02284812927246,
+        533.1788330078125
+      ],
+      "rotation": [
+        -0.1862155896168688,
+        0.5489793050236152,
+        0.8041105926848271,
+        -0.1317255919382656
+      ],
+      "children": [
+        242
+      ]
+    },
+    {
+      "name": "Object_242"
+    },
+    {
+      "name": "DJI_0323",
+      "translation": [
+        -66.92118072509766,
+        16.238140106201172,
+        533.04541015625
+      ],
+      "rotation": [
+        -0.1162570878700706,
+        0.5909256370863063,
+        0.7949011661498598,
+        -0.07364317353093006
+      ],
+      "children": [
+        244
+      ]
+    },
+    {
+      "name": "Object_244"
+    },
+    {
+      "name": "DJI_0324",
+      "translation": [
+        -66.99258422851562,
+        16.527942657470703,
+        533.10302734375
+      ],
+      "rotation": [
+        0.07336860828309638,
+        0.6647217599675717,
+        0.7406651085376778,
+        0.0646314640023392
+      ],
+      "children": [
+        246
+      ]
+    },
+    {
+      "name": "Object_246"
+    },
+    {
+      "name": "DJI_0325",
+      "translation": [
+        -67.88801574707031,
+        16.66744613647461,
+        533.262939453125
+      ],
+      "rotation": [
+        0.08443643480226655,
+        0.6664221814413648,
+        0.7371626426523346,
+        0.07309721498553705
+      ],
+      "children": [
+        248
+      ]
+    },
+    {
+      "name": "Object_248"
+    },
+    {
+      "name": "DJI_0326",
+      "translation": [
+        -68.43811798095703,
+        16.538433074951172,
+        533.3329467773438
+      ],
+      "rotation": [
+        0.07279803605279042,
+        0.6623406520940123,
+        0.7429689080383658,
+        0.06326537930664466
+      ],
+      "children": [
+        250
+      ]
+    },
+    {
+      "name": "Object_250"
+    },
+    {
+      "name": "DJI_0327",
+      "translation": [
+        -68.91838836669922,
+        16.628055572509766,
+        533.4133911132812
+      ],
+      "rotation": [
+        0.03967865695249625,
+        0.6515644837534661,
+        0.7566892998156508,
+        0.036202641312831005
+      ],
+      "children": [
+        252
+      ]
+    },
+    {
+      "name": "Object_252"
+    },
+    {
+      "name": "DJI_0328",
+      "translation": [
+        -69.42658233642578,
+        16.521596908569336,
+        533.5675659179688
+      ],
+      "rotation": [
+        -0.013332972979525558,
+        0.6445168777018233,
+        0.7629380646755719,
+        0.04843279527461683
+      ],
+      "children": [
+        254
+      ]
+    },
+    {
+      "name": "Object_254"
+    },
+    {
+      "name": "DJI_0329",
+      "translation": [
+        -70.03546905517578,
+        16.520761489868164,
+        533.7640380859375
+      ],
+      "rotation": [
+        -0.030740860949122865,
+        0.6354746960877865,
+        0.7707796344197619,
+        0.03355093536669657
+      ],
+      "children": [
+        256
+      ]
+    },
+    {
+      "name": "Object_256"
+    },
+    {
+      "name": "DJI_0330",
+      "translation": [
+        -69.98395538330078,
+        16.822153091430664,
+        533.747314453125
+      ],
+      "rotation": [
+        0.148611492316418,
+        0.673421931333984,
+        0.7176391133551758,
+        0.09701355437613544
+      ],
+      "children": [
+        258
+      ]
+    },
+    {
+      "name": "Object_258"
+    },
+    {
+      "name": "DJI_0331",
+      "translation": [
+        -69.46318817138672,
+        17.595090866088867,
+        533.6631469726562
+      ],
+      "rotation": [
+        0.18057226485579167,
+        0.6797598406799801,
+        0.6990012402364747,
+        0.12929610323381113
+      ],
+      "children": [
+        260
+      ]
+    },
+    {
+      "name": "Object_260"
+    },
+    {
+      "name": "DJI_0332",
+      "translation": [
+        -69.0395736694336,
+        18.4284725189209,
+        533.6373291015625
+      ],
+      "rotation": [
+        0.1964179658566321,
+        0.6820946425627333,
+        0.6895966642293689,
+        0.14360822385813077
+      ],
+      "children": [
+        262
+      ]
+    },
+    {
+      "name": "Object_262"
+    },
+    {
+      "name": "DJI_0333",
+      "translation": [
+        -68.56085205078125,
+        19.104448318481445,
+        533.6195678710938
+      ],
+      "rotation": [
+        0.20679192940848254,
+        0.6775065023786048,
+        0.6928397510156435,
+        0.13488927525495872
+      ],
+      "children": [
+        264
+      ]
+    },
+    {
+      "name": "Object_264"
+    },
+    {
+      "name": "DJI_0334",
+      "translation": [
+        -68.1002426147461,
+        19.776704788208008,
+        533.5809326171875
+      ],
+      "rotation": [
+        0.22418160902663967,
+        0.6791057889306836,
+        0.6828577004108122,
+        0.1492088958632101
+      ],
+      "children": [
+        266
+      ]
+    },
+    {
+      "name": "Object_266"
+    },
+    {
+      "name": "DJI_0335",
+      "translation": [
+        -67.5981674194336,
+        20.518232345581055,
+        533.6058959960938
+      ],
+      "rotation": [
+        0.21687691984168644,
+        0.6788453061917176,
+        0.6869941228709951,
+        0.14203002162278233
+      ],
+      "children": [
+        268
+      ]
+    },
+    {
+      "name": "Object_268"
+    },
+    {
+      "name": "DJI_0336",
+      "translation": [
+        -68.5865249633789,
+        21.03632354736328,
+        533.9588623046875
+      ],
+      "rotation": [
+        0.22384900270070718,
+        0.680404229796362,
+        0.682574234111345,
+        0.1450314551827607
+      ],
+      "children": [
+        270
+      ]
+    },
+    {
+      "name": "Object_270"
+    },
+    {
+      "name": "DJI_0337",
+      "translation": [
+        -68.77281951904297,
+        21.467607498168945,
+        534.6718139648438
+      ],
+      "rotation": [
+        0.198978116695179,
+        0.7052066612012033,
+        0.6324136769057508,
+        0.25128512756715166
+      ],
+      "children": [
+        272
+      ]
+    },
+    {
+      "name": "Object_272"
+    },
+    {
+      "name": "DJI_0338",
+      "translation": [
+        -69.33161926269531,
+        21.676633834838867,
+        534.7550659179688
+      ],
+      "rotation": [
+        0.19108740235940747,
+        0.7015474684737111,
+        0.6425112776276638,
+        0.24185948866837623
+      ],
+      "children": [
+        274
+      ]
+    },
+    {
+      "name": "Object_274"
+    },
+    {
+      "name": "DJI_0339",
+      "translation": [
+        -70.09891510009766,
+        22.120075225830078,
+        534.7477416992188
+      ],
+      "rotation": [
+        0.22382934151484118,
+        0.6925426661269883,
+        0.6515251686920195,
+        0.21400942977259413
+      ],
+      "children": [
+        276
+      ]
+    },
+    {
+      "name": "Object_276"
+    },
+    {
+      "name": "DJI_0340",
+      "translation": [
+        -70.79168701171875,
+        22.660842895507812,
+        534.8214111328125
+      ],
+      "rotation": [
+        0.24501254993903274,
+        0.6950744254753454,
+        0.6332234964142951,
+        0.2363649657020829
+      ],
+      "children": [
+        278
+      ]
+    },
+    {
+      "name": "Object_278"
+    },
+    {
+      "name": "DJI_0341",
+      "translation": [
+        -70.89362335205078,
+        22.497459411621094,
+        534.81787109375
+      ],
+      "rotation": [
+        0.19313251033620643,
+        0.6935495596179988,
+        0.6650231017865024,
+        0.1985777326267333
+      ],
+      "children": [
+        280
+      ]
+    },
+    {
+      "name": "Object_280"
+    },
+    {
+      "name": "DJI_0342",
+      "translation": [
+        -71.31256866455078,
+        21.5465087890625,
+        534.670654296875
+      ],
+      "rotation": [
+        0.15551364268915774,
+        0.6903906562431114,
+        0.6875256470169315,
+        0.16274130822782729
+      ],
+      "children": [
+        282
+      ]
+    },
+    {
+      "name": "Object_282"
+    },
+    {
+      "name": "DJI_0343",
+      "translation": [
+        -71.6451416015625,
+        20.591384887695312,
+        534.6439819335938
+      ],
+      "rotation": [
+        0.09858625819830259,
+        0.6786870612486077,
+        0.7193979466972306,
+        0.11014180348984201
+      ],
+      "children": [
+        284
+      ]
+    },
+    {
+      "name": "Object_284"
+    },
+    {
+      "name": "DJI_0344",
+      "translation": [
+        -72.03700256347656,
+        19.690744400024414,
+        534.4175415039062
+      ],
+      "rotation": [
+        0.06657903120036789,
+        0.66957699645571,
+        0.7354649451407378,
+        0.07953108128840021
+      ],
+      "children": [
+        286
+      ]
+    },
+    {
+      "name": "Object_286"
+    },
+    {
+      "name": "DJI_0345",
+      "translation": [
+        -72.29498291015625,
+        18.983844757080078,
+        534.3064575195312
+      ],
+      "rotation": [
+        -0.01867886769097795,
+        0.6742690021238956,
+        0.7167871666053286,
+        0.17671607302827297
+      ],
+      "children": [
+        288
+      ]
+    },
+    {
+      "name": "Object_288"
+    },
+    {
+      "name": "DJI_0346",
+      "translation": [
+        -72.52759552001953,
+        18.297346115112305,
+        534.310791015625
+      ],
+      "rotation": [
+        -0.05264759675982072,
+        0.6630583768265589,
+        0.7249400560430888,
+        0.17900763843978226
+      ],
+      "children": [
+        290
+      ]
+    },
+    {
+      "name": "Object_290"
+    },
+    {
+      "name": "DJI_0347",
+      "translation": [
+        -72.6418228149414,
+        17.415409088134766,
+        534.1151123046875
+      ],
+      "rotation": [
+        -0.12542961310838216,
+        0.626543747963505,
+        0.7522496476875483,
+        0.1607196677363571
+      ],
+      "children": [
+        292
+      ]
+    },
+    {
+      "name": "Object_292"
+    },
+    {
+      "name": "DJI_0348",
+      "translation": [
+        -72.73606872558594,
+        16.563133239746094,
+        533.8707885742188
+      ],
+      "rotation": [
+        -0.1060132748053588,
+        0.6393893167015448,
+        0.7408573309564094,
+        0.17627507600656606
+      ],
+      "children": [
+        294
+      ]
+    },
+    {
+      "name": "Object_294"
+    },
+    {
+      "name": "DJI_0349",
+      "translation": [
+        -72.56278991699219,
+        15.620063781738281,
+        533.6820068359375
+      ],
+      "rotation": [
+        -0.14358125354506626,
+        0.6173784172322213,
+        0.7599400098212706,
+        0.14394267969963512
+      ],
+      "children": [
+        296
+      ]
+    },
+    {
+      "name": "Object_296"
+    },
+    {
+      "name": "DJI_0350",
+      "translation": [
+        -72.57649230957031,
+        14.809337615966797,
+        533.4683227539062
+      ],
+      "rotation": [
+        -0.19830388038240318,
+        0.5938405980904343,
+        0.7637618220112532,
+        0.15715213750670914
+      ],
+      "children": [
+        298
+      ]
+    },
+    {
+      "name": "Object_298"
+    },
+    {
+      "name": "DJI_0351",
+      "translation": [
+        -72.12559509277344,
+        14.482172966003418,
+        533.59130859375
+      ],
+      "rotation": [
+        -0.19860696403725284,
+        0.6062396187890414,
+        0.7335437318125776,
+        0.2343979350696171
+      ],
+      "children": [
+        300
+      ]
+    },
+    {
+      "name": "Object_300"
+    },
+    {
+      "name": "DJI_0352",
+      "translation": [
+        -72.05658721923828,
+        14.408711433410645,
+        533.5991821289062
+      ],
+      "rotation": [
+        -0.2985528474250094,
+        0.5297610158888884,
+        0.7570781122111151,
+        0.23885601384442112
+      ],
+      "children": [
+        302
+      ]
+    },
+    {
+      "name": "Object_302"
+    },
+    {
+      "name": "DJI_0353",
+      "translation": [
+        -72.36373901367188,
+        15.323537826538086,
+        533.5860595703125
+      ],
+      "rotation": [
+        -0.3231312446286949,
+        0.5042745232122358,
+        0.7707996634424225,
+        0.21716648641268552
+      ],
+      "children": [
+        304
+      ]
+    },
+    {
+      "name": "Object_304"
+    },
+    {
+      "name": "DJI_0354",
+      "translation": [
+        -72.6817855834961,
+        15.954730987548828,
+        533.6243286132812
+      ],
+      "rotation": [
+        -0.3609545150688505,
+        0.46695399476841426,
+        0.7872043919488484,
+        0.17881568756033325
+      ],
+      "children": [
+        306
+      ]
+    },
+    {
+      "name": "Object_306"
+    },
+    {
+      "name": "DJI_0355",
+      "translation": [
+        -73.02787017822266,
+        16.6129207611084,
+        533.7708129882812
+      ],
+      "rotation": [
+        -0.2763934333946993,
+        0.5694016495126484,
+        0.7281488107741259,
+        0.2630356266302939
+      ],
+      "children": [
+        308
+      ]
+    },
+    {
+      "name": "Object_308"
+    },
+    {
+      "name": "DJI_0356",
+      "translation": [
+        -72.91778564453125,
+        17.51716423034668,
+        533.9138793945312
+      ],
+      "rotation": [
+        -0.2636364367303759,
+        0.5776715894199012,
+        0.7231562793686175,
+        0.2717284666996333
+      ],
+      "children": [
+        310
+      ]
+    },
+    {
+      "name": "Object_310"
+    },
+    {
+      "name": "DJI_0357",
+      "translation": [
+        -72.83185577392578,
+        18.317041397094727,
+        534.0302124023438
+      ],
+      "rotation": [
+        -0.279954860458287,
+        0.5601239676818032,
+        0.7320378259662483,
+        0.26834127205628294
+      ],
+      "children": [
+        312
+      ]
+    },
+    {
+      "name": "Object_312"
+    },
+    {
+      "name": "DJI_0358",
+      "translation": [
+        -72.90094757080078,
+        18.971952438354492,
+        534.13134765625
+      ],
+      "rotation": [
+        -0.17118774294388603,
+        0.6603604217650797,
+        0.6391291617282358,
+        0.3551517769357023
+      ],
+      "children": [
+        314
+      ]
+    },
+    {
+      "name": "Object_314"
+    },
+    {
+      "name": "DJI_0359",
+      "translation": [
+        -72.56982421875,
+        19.673269271850586,
+        534.0447998046875
+      ],
+      "rotation": [
+        -0.15325173122612995,
+        0.6708375617762428,
+        0.6262916913073607,
+        0.36640085969558706
+      ],
+      "children": [
+        316
+      ]
+    },
+    {
+      "name": "Object_316"
+    },
+    {
+      "name": "DJI_0360",
+      "translation": [
+        -72.34085845947266,
+        20.061420440673828,
+        534.1790161132812
+      ],
+      "rotation": [
+        -0.1156508882925821,
+        0.6765227018972412,
+        0.6462473217105557,
+        0.3336259957448264
+      ],
+      "children": [
+        318
+      ]
+    },
+    {
+      "name": "Object_318"
+    },
+    {
+      "name": "DJI_0361",
+      "translation": [
+        -72.12542724609375,
+        20.665008544921875,
+        534.3358764648438
+      ],
+      "rotation": [
+        -0.04722458469924791,
+        0.6853069908000708,
+        0.6708389489413938,
+        0.27946246893588617
+      ],
+      "children": [
+        320
+      ]
+    },
+    {
+      "name": "Object_320"
+    },
+    {
+      "name": "DJI_0362",
+      "translation": [
+        -71.59808349609375,
+        21.32695960998535,
+        534.4309692382812
+      ],
+      "rotation": [
+        -0.009221909274408777,
+        0.6970225888698991,
+        0.6601595081325261,
+        0.27975684230534825
+      ],
+      "children": [
+        322
+      ]
+    },
+    {
+      "name": "Object_322"
+    },
+    {
+      "name": "DJI_0363",
+      "translation": [
+        -71.09732818603516,
+        22.00757598876953,
+        534.40087890625
+      ],
+      "rotation": [
+        0.06751123411853531,
+        0.7106577632008496,
+        0.6429555694117226,
+        0.2775174096027222
+      ],
+      "children": [
+        324
+      ]
+    },
+    {
+      "name": "Object_324"
+    },
+    {
+      "name": "DJI_0364",
+      "translation": [
+        -70.59358215332031,
+        22.448945999145508,
+        534.4541625976562
+      ],
+      "rotation": [
+        0.1628526057523378,
+        0.7316758156707156,
+        0.5668348402258107,
+        0.34180080963690884
+      ],
+      "children": [
+        326
+      ]
+    },
+    {
+      "name": "Object_326"
+    },
+    {
+      "name": "DJI_0365",
+      "translation": [
+        -69.85460662841797,
+        22.632999420166016,
+        534.4605712890625
+      ],
+      "rotation": [
+        0.26553904463080996,
+        0.7389047422405481,
+        0.46520553211629984,
+        0.4087696301823023
+      ],
+      "children": [
+        328
+      ]
+    },
+    {
+      "name": "Object_328"
+    },
+    {
+      "name": "DJI_0366",
+      "translation": [
+        -71.00611877441406,
+        22.385610580444336,
+        533.3043823242188
+      ],
+      "rotation": [
+        0.3491053757751426,
+        0.6523167971734921,
+        0.6699089376172677,
+        0.061888997654812046
+      ],
+      "children": [
+        330
+      ]
+    },
+    {
+      "name": "Object_330"
+    },
+    {
+      "name": "DJI_0367",
+      "translation": [
+        -71.19075775146484,
+        21.642730712890625,
+        533.386962890625
+      ],
+      "rotation": [
+        0.380691128469882,
+        0.6447596201076232,
+        0.657606904664611,
+        0.08314118065333455
+      ],
+      "children": [
+        332
+      ]
+    },
+    {
+      "name": "Object_332"
+    },
+    {
+      "name": "DJI_0368",
+      "translation": [
+        -71.3519515991211,
+        21.30579948425293,
+        533.3986206054688
+      ],
+      "rotation": [
+        0.30447895420734833,
+        0.6450234473607693,
+        0.7007025453684976,
+        0.015914198494959255
+      ],
+      "children": [
+        334
+      ]
+    },
+    {
+      "name": "Object_334"
+    },
+    {
+      "name": "DJI_0369",
+      "translation": [
+        -71.40860748291016,
+        20.86243438720703,
+        533.3561401367188
+      ],
+      "rotation": [
+        0.27300924497152235,
+        0.6482095926714538,
+        0.7106867396806167,
+        -0.014650398319591647
+      ],
+      "children": [
+        336
+      ]
+    },
+    {
+      "name": "Object_336"
+    },
+    {
+      "name": "DJI_0370",
+      "translation": [
+        -71.79798889160156,
+        20.54297637939453,
+        533.2352905273438
+      ],
+      "rotation": [
+        0.2819931104197007,
+        0.6501965100669301,
+        0.7054333426596753,
+        -0.00939058233573176
+      ],
+      "children": [
+        338
+      ]
+    },
+    {
+      "name": "Object_338"
+    },
+    {
+      "name": "DJI_0371",
+      "translation": [
+        -72.34510803222656,
+        20.003080368041992,
+        533.1336669921875
+      ],
+      "rotation": [
+        0.2992900825665961,
+        0.6497334393529719,
+        0.6987316146877283,
+        0.006784902336677697
+      ],
+      "children": [
+        340
+      ]
+    },
+    {
+      "name": "Object_340"
+    },
+    {
+      "name": "DJI_0372",
+      "translation": [
+        -72.8471450805664,
+        19.275493621826172,
+        533.1163940429688
+      ],
+      "rotation": [
+        0.2660215944637661,
+        0.649705665356234,
+        0.7116587503422274,
+        -0.025629723843774342
+      ],
+      "children": [
+        342
+      ]
+    },
+    {
+      "name": "Object_342"
+    },
+    {
+      "name": "DJI_0373",
+      "translation": [
+        -73.00732421875,
+        18.789167404174805,
+        533.1093139648438
+      ],
+      "rotation": [
+        0.27248608143907443,
+        0.6509399665535246,
+        0.7082386643436164,
+        -0.020651626910361147
+      ],
+      "children": [
+        344
+      ]
+    },
+    {
+      "name": "Object_344"
+    },
+    {
+      "name": "DJI_0374",
+      "translation": [
+        -73.21062469482422,
+        18.089534759521484,
+        533.1456909179688
+      ],
+      "rotation": [
+        0.18494480372741048,
+        0.6427420173393934,
+        0.7365618309970096,
+        -0.1007709672427992
+      ],
+      "children": [
+        346
+      ]
+    },
+    {
+      "name": "Object_346"
+    },
+    {
+      "name": "DJI_0375",
+      "translation": [
+        -73.2276840209961,
+        17.631921768188477,
+        532.9759521484375
+      ],
+      "rotation": [
+        0.12278945715298284,
+        0.6353045814669069,
+        0.7475180303785139,
+        -0.15009207919894083
+      ],
+      "children": [
+        348
+      ]
+    },
+    {
+      "name": "Object_348"
+    },
+    {
+      "name": "DJI_0376",
+      "translation": [
+        -73.18858337402344,
+        16.908910751342773,
+        532.8028564453125
+      ],
+      "rotation": [
+        0.03873556821436124,
+        0.619041487761202,
+        0.7543619438214159,
+        -0.21500058116080326
+      ],
+      "children": [
+        350
+      ]
+    },
+    {
+      "name": "Object_350"
+    },
+    {
+      "name": "DJI_0377",
+      "translation": [
+        -73.14423370361328,
+        16.36572265625,
+        532.6395874023438
+      ],
+      "rotation": [
+        -0.004833914013030599,
+        0.610139605819592,
+        0.7535970263521039,
+        -0.24453592079466385
+      ],
+      "children": [
+        352
+      ]
+    },
+    {
+      "name": "Object_352"
+    },
+    {
+      "name": "DJI_0378",
+      "translation": [
+        -72.97779846191406,
+        15.765968322753906,
+        532.4305419921875
+      ],
+      "rotation": [
+        0.010553737557264844,
+        0.6214793136325744,
+        0.7572222633153693,
+        -0.2006652069739699
+      ],
+      "children": [
+        354
+      ]
+    },
+    {
+      "name": "Object_354"
+    },
+    {
+      "name": "DJI_0379",
+      "translation": [
+        -72.81140899658203,
+        15.221569061279297,
+        532.1795654296875
+      ],
+      "rotation": [
+        -0.033666894969095834,
+        0.6070375765081395,
+        0.757936692285917,
+        -0.23644003759293367
+      ],
+      "children": [
+        356
+      ]
+    },
+    {
+      "name": "Object_356"
+    },
+    {
+      "name": "DJI_0380",
+      "translation": [
+        -72.50614166259766,
+        14.506895065307617,
+        531.8240966796875
+      ],
+      "rotation": [
+        -0.041225614900956005,
+        0.6048099007167689,
+        0.7563242724333111,
+        -0.24592484136262638
+      ],
+      "children": [
+        358
+      ]
+    },
+    {
+      "name": "Object_358"
+    },
+    {
+      "name": "DJI_0381",
+      "translation": [
+        -72.28357696533203,
+        14.366718292236328,
+        532.2015991210938
+      ],
+      "rotation": [
+        -0.2439422918954347,
+        0.5120304872659536,
+        0.7541679981979652,
+        -0.3309797106003127
+      ],
+      "children": [
+        360
+      ]
+    },
+    {
+      "name": "Object_360"
+    },
+    {
+      "name": "DJI_0382",
+      "translation": [
+        -72.26303100585938,
+        14.448477745056152,
+        531.9876098632812
+      ],
+      "rotation": [
+        -0.2810690410007991,
+        0.4830670269337571,
+        0.7063511366023595,
+        -0.4344128376335428
+      ],
+      "children": [
+        362
+      ]
+    },
+    {
+      "name": "Object_362"
+    },
+    {
+      "name": "DJI_0383",
+      "translation": [
+        -72.83839416503906,
+        15.385744094848633,
+        532.1737060546875
+      ],
+      "rotation": [
+        0.050763538684574554,
+        0.6364205906506769,
+        0.747859173442135,
+        -0.1819300734747004
+      ],
+      "children": [
+        364
+      ]
+    },
+    {
+      "name": "Object_364"
+    },
+    {
+      "name": "DJI_0384",
+      "translation": [
+        -72.97833251953125,
+        15.887528419494629,
+        532.3615112304688
+      ],
+      "rotation": [
+        0.03073397726863664,
+        0.6402811267223597,
+        0.7585967967214108,
+        -0.11673217811902188
+      ],
+      "children": [
+        366
+      ]
+    },
+    {
+      "name": "Object_366"
+    },
+    {
+      "name": "DJI_0385",
+      "translation": [
+        -73.04741668701172,
+        16.50623321533203,
+        532.4439697265625
+      ],
+      "rotation": [
+        0.02551670465687463,
+        0.6272631204274207,
+        0.7641365692793434,
+        -0.14827399982837272
+      ],
+      "children": [
+        368
+      ]
+    },
+    {
+      "name": "Object_368"
+    },
+    {
+      "name": "DJI_0386",
+      "translation": [
+        -73.0494613647461,
+        17.169036865234375,
+        532.5530395507812
+      ],
+      "rotation": [
+        0.02511519315965026,
+        0.62361606551279,
+        0.7656783266111131,
+        -0.15559219152935239
+      ],
+      "children": [
+        370
+      ]
+    },
+    {
+      "name": "Object_370"
+    },
+    {
+      "name": "DJI_0387",
+      "translation": [
+        -73.09075164794922,
+        17.987638473510742,
+        532.706298828125
+      ],
+      "rotation": [
+        0.05971676813183456,
+        0.6328471228633967,
+        0.7608187304620206,
+        -0.13074129441599117
+      ],
+      "children": [
+        372
+      ]
+    },
+    {
+      "name": "Object_372"
+    },
+    {
+      "name": "DJI_0388",
+      "translation": [
+        -73.02806091308594,
+        18.559783935546875,
+        532.8087768554688
+      ],
+      "rotation": [
+        0.06441019017678717,
+        0.6340528979177041,
+        0.7603643515456272,
+        -0.12519705644362966
+      ],
+      "children": [
+        374
+      ]
+    },
+    {
+      "name": "Object_374"
+    },
+    {
+      "name": "DJI_0389",
+      "translation": [
+        -72.89299774169922,
+        19.159255981445312,
+        532.8525390625
+      ],
+      "rotation": [
+        0.07271375628045819,
+        0.6391365749942837,
+        0.7584491085336739,
+        -0.10474778239484574
+      ],
+      "children": [
+        376
+      ]
+    },
+    {
+      "name": "Object_376"
+    },
+    {
+      "name": "DJI_0390",
+      "translation": [
+        -72.79430389404297,
+        19.672651290893555,
+        532.9144897460938
+      ],
+      "rotation": [
+        0.0763566782400196,
+        0.6398907335247657,
+        0.7580690435348915,
+        -0.1002039523740572
+      ],
+      "children": [
+        378
+      ]
+    },
+    {
+      "name": "Object_378"
+    },
+    {
+      "name": "DJI_0391",
+      "translation": [
+        -72.60243225097656,
+        20.363088607788086,
+        532.9688720703125
+      ],
+      "rotation": [
+        0.13855673973636187,
+        0.6597387105928965,
+        0.7370148963666078,
+        -0.04853767765943257
+      ],
+      "children": [
+        380
+      ]
+    },
+    {
+      "name": "Object_380"
+    },
+    {
+      "name": "DJI_0392",
+      "translation": [
+        -72.43036651611328,
+        20.8360538482666,
+        533.0578002929688
+      ],
+      "rotation": [
+        0.1330601624800387,
+        0.6578740391386524,
+        0.7392587891808977,
+        -0.054710002805462815
+      ],
+      "children": [
+        382
+      ]
+    },
+    {
+      "name": "Object_382"
+    },
+    {
+      "name": "DJI_0393",
+      "translation": [
+        -72.16687774658203,
+        21.428754806518555,
+        533.13916015625
+      ],
+      "rotation": [
+        0.1353322773629974,
+        0.6619387366603291,
+        0.7352537264507473,
+        -0.054076254979076706
+      ],
+      "children": [
+        384
+      ]
+    },
+    {
+      "name": "Object_384"
+    },
+    {
+      "name": "DJI_0394",
+      "translation": [
+        -71.9283218383789,
+        21.887996673583984,
+        533.141845703125
+      ],
+      "rotation": [
+        0.17182317680770043,
+        0.6719244815384863,
+        0.7199132807782699,
+        -0.026817068818460577
+      ],
+      "children": [
+        386
+      ]
+    },
+    {
+      "name": "Object_386"
+    },
+    {
+      "name": "DJI_0395",
+      "translation": [
+        -71.5787124633789,
+        22.352720260620117,
+        533.1963500976562
+      ],
+      "rotation": [
+        0.20619040173700862,
+        0.6774935255569409,
+        0.706035767453258,
+        0.0012394097977604713
+      ],
+      "children": [
+        388
+      ]
+    },
+    {
+      "name": "Object_388"
+    },
+    {
+      "name": "DJI_0396",
+      "translation": [
+        -71.32769012451172,
+        22.78914451599121,
+        533.21875
+      ],
+      "rotation": [
+        0.31088907000320937,
+        0.6841082104626565,
+        0.6539119873221985,
+        0.08799463260025782
+      ],
+      "children": [
+        390
+      ]
+    },
+    {
+      "name": "Object_390"
+    },
+    {
+      "name": "DJI_0397",
+      "translation": [
+        -71.11494445800781,
+        22.905899047851562,
+        533.1824340820312
+      ],
+      "rotation": [
+        0.40051000519590324,
+        0.6740614995768749,
+        0.598161586053213,
+        0.16563679390901329
+      ],
+      "children": [
+        392
+      ]
+    },
+    {
+      "name": "Object_392"
+    },
+    {
+      "name": "DJI_0398",
+      "translation": [
+        -70.81560516357422,
+        22.967557907104492,
+        533.1478271484375
+      ],
+      "rotation": [
+        0.4373754663148042,
+        0.6667189192932762,
+        0.5706884181595688,
+        0.19622261210381078
+      ],
+      "children": [
+        394
+      ]
+    },
+    {
+      "name": "Object_394"
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "scene": 0
+}

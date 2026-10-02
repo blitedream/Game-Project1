@@ -1,0 +1,11 @@
+Smooth_Male_Shirt.fbx is from Quaternius' Animated Men Pack.
+The asset is dedicated to the public domain under CC0 1.0 Universal.
+
+Source: https://quaternius.com/packs/animatedmen.html
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
+Casual_Hoodie.gltf is from Quaternius' Ultimate Modular Men Pack.
+The asset is dedicated to the public domain under CC0 1.0 Universal.
+
+Source: https://quaternius.com/packs/ultimatemodularcharacters.html
+License: https://creativecommons.org/publicdomain/zero/1.0/

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32d75199cc69a4e69911099651d8ebc3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212796
+  packageName: Heart Rate Plugin for HypeRate
+  packageVersion: 1.0
+  assetPath: Assets/HypeRate/HypeRate Heart Rate SDK/endel.nativewebsocket.asmdef
+  uploadId: 481841

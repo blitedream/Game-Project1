@@ -1,0 +1,7 @@
+Kelkaya Sinkhole
+Creator: 3BATS
+Source: https://sketchfab.com/3d-models/kelkaya-sinkhole-cd6c5687814e484da0bf4d360a324c60
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The game-ready copy in this project has been simplified and its texture resized.
+The original downloaded model remains at D:\Google下载\kelkaya_sinkhole.glb.

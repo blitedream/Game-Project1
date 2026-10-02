@@ -1,0 +1,6 @@
+Scuba Diver by turelljc
+Source: https://sketchfab.com/3d-models/scuba-diver-3cffae9b572d4506b3025e29d6ff068c
+License: Creative Commons Attribution (CC BY)
+
+The model is used as the Level 3 recovery diver and is posed at runtime using
+project-authored mesh deformation. The original downloaded GLB is preserved.
